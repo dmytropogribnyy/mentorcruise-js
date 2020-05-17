@@ -1,6 +1,6 @@
 ## Form Validator
 
-Simple, but nice and clean client side form validation. Check required, length, email and password match.
+Simple, but nice and clean form validator. Check required, length, email and password match.
 
 ## Project Specifications
 
