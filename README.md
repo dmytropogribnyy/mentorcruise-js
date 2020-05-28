@@ -1,2 +1,2 @@
 # mentorcruise-js
-Learning Path
+Mastering JavaScript
