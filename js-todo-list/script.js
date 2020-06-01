@@ -17,15 +17,12 @@ function createListElement() {
 	button.appendChild(document.createTextNode("Done"));
 	li.appendChild(button);
 	button.onclick = underlineParent;
-	// CREATE AN ELEMENT
+
 	var button = document.createElement("button");
-	// APPEND TEXT TO BUTTON
 	button.appendChild(document.createTextNode("Delete"));
-	// APPEND BUTTON TO LIST
 	li.appendChild(button);
 
 	button.onclick = removeParent;
-	//THIS FUNCTION WILL DO THIS FOR EVERY BUTTON CREATED.
 }
 
 function underlineParent(event) {
